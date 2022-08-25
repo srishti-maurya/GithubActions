@@ -1,0 +1,6 @@
+module Pods_GithubActions_GithubActionsTests {
+  umbrella header "Pods-GithubActions-GithubActionsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
